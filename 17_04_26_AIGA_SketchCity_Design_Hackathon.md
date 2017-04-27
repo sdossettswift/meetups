@@ -4,14 +4,14 @@ at the Iron Yard
 April 26, 2017
 
 ### DESIGNERS AS: TEAMMATES || EXPLORERS || COMMUNICATORS || SHAPERS 
-###Team Formation 
+### Team Formation 
 - Neeraj
 1) define and agree on a (broadly defined) problem
 2) communicate! (And then focus on doing the right work)
 3) figure out skills & interests
 4) identify a subject matter expert
 
-###Design Thinking Mindset
+### Design Thinking Mindset
 - Empathize
 - Embrace ambiguity
 - Make it
@@ -19,12 +19,12 @@ April 26, 2017
 - Learn from failures
 - Think in terms of MVP
 
-###Design Thinking
-####STEP 1. Understanding
-####STEP 2. Defining Problem
-####STEP 3. Ideation
-####STEP 4. Prototype
-####STEP 5. Testing
+### Design Thinking
+#### STEP 1. Understanding
+#### STEP 2. Defining Problem
+#### STEP 3. Ideation
+#### STEP 4. Prototype
+#### STEP 5. Testing
 
 
 #### HOW MIGHT WE... 
@@ -116,5 +116,35 @@ Questions to ask:
  - John B. Wear Summer 2016 catalog shot in an orange jumpsuit 
  - important b/c this is all depressing shit (human trafficking, homelessness, flooding, etc.)
 
-## PITCH
+## PITCH (Jo from BlackSheep) 
+Presentation can be a deck, slides, a website, live demo, etc. 
+Make a case for why people should care. 
+Make the project look professional. 
+Create vision for where it can go in more than 24 hours
+
+Format : QUICK, Straightforward, appear as though you like the project, convey excitement 
+- Enthusiasm - tap the most compelling speaker 
+- Finish strong - rally cry! 
+- Community impact
+
+Tips : 
+- Twitter and facebook for people to get connected w/ project || buy in 
+
+
+## BEYOND THE 24th HOUR
+WE ARE DEVELOPERS, DESIGNERS, DATA ANALYSTS< AND ABOLITIONISTS. We build research and action tools... 
+- Ad scraper
+- Fake ads 
+- Spa mapping 
+
+ "If you can find a prostitute online, we can find you. Technology is a bitch"
+
+ Engagement kits
+ printables
+ apps
+ stickers for spa windows
+ robust website 
+ 
+ 348 johns -> $83K for spas (yikes!)
+ - numbers show impact, size of problem 
 
