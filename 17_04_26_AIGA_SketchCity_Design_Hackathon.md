@@ -3,6 +3,10 @@
 at the Iron Yard
 April 26, 2017
 
+Possible end projects:
+ complextity - rull range -- powerpint, website, data vis, tweet bot, mobile app
+ using -- geo mapping, robust search tool, chrome extension, fake ad posting bot
+
 ### DESIGNERS AS: TEAMMATES || EXPLORERS || COMMUNICATORS || SHAPERS 
 ### Team Formation (Neeraj)
 1) define and agree on a (broadly defined) problem
