@@ -7,7 +7,7 @@ April 26, 2017
 ### Team Formation (Neeraj)
 1) define and agree on a (broadly defined) problem
 2) communicate! (And then focus on doing the right work)
-3) figure out skills & interests
+3) figure out skills & interests  (& resources)
 4) identify a subject matter expert
 
 ### Design Thinking Mindset
@@ -72,12 +72,12 @@ Sort the stickies into that matrix
 - Customer Segments  - early adopters, etc.
 
 ### Define your value proposition
-#### We're working to improve the lives of {target user}
-#### Who need {something}
-#### Which is solved by our {}
-#### That will {key benefit statement}
-#### Unlike {primary conpetitors}
-#### that instead {}
+##### We're working to improve the lives of {target user}
+##### Who need {something}
+##### Which is solved by our {}
+##### That will {key benefit statement}
+##### Unlike {primary conpetitors}
+##### that instead {}
 
 
 
