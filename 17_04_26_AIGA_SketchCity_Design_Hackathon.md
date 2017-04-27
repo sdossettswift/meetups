@@ -4,8 +4,7 @@ at the Iron Yard
 April 26, 2017
 
 ### DESIGNERS AS: TEAMMATES || EXPLORERS || COMMUNICATORS || SHAPERS 
-### Team Formation 
-- Neeraj
+### Team Formation (Neeraj)
 1) define and agree on a (broadly defined) problem
 2) communicate! (And then focus on doing the right work)
 3) figure out skills & interests
@@ -118,10 +117,10 @@ Questions to ask:
  - important b/c this is all depressing shit (human trafficking, homelessness, flooding, etc.)
 
 ## PITCH (Jo from BlackSheep) 
-Presentation can be a deck, slides, a website, live demo, etc. 
-Make a case for why people should care. 
-Make the project look professional. 
-Create vision for where it can go in more than 24 hours
+ Presentation can be a deck, slides, a website, live demo, etc. 
+ Make a case for why people should care. 
+ Make the project look professional. 
+ Create vision for where it can go in more than 24 hours
 
 Format : QUICK, Straightforward, appear as though you like the project, convey excitement 
 - Enthusiasm - tap the most compelling speaker 
