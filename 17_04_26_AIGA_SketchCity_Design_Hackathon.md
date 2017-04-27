@@ -60,17 +60,18 @@ Sort the stickies into that matrix
 * foundation build w/ first 3 before the hackathon 
 
 ### LEAN CANVAS 
--Problem 
--Solution
--Cost Structure 
--Unique Value Proposition 
--Unfair Advantage
--Key Metrics
--Solutions 
--Problem 
--Channels - how to connect w/ stakeholders
--Unfair Advantages
--Customer Segments  - early adopters, etc.
+- Problem 
+- Solution
+- Cost Structure 
+- Unique Value Proposition 
+- Unfair Advantage
+- Key Metrics
+- Solutions 
+- Problem 
+- Channels - how to connect w/ stakeholders
+- Unfair Advantages
+- Customer Segments  - early adopters, etc.
+
 ### Define your value proposition
 #### We're working to improve the lives of {target user}
 #### Who need {something}
@@ -105,7 +106,7 @@ Questions to ask:
  3) Text editor
  - Atom - atom.io
  4) Web Framework 
- - Tachyons - www.fontawesome.io
+ - Tachyons -https://github.com/tachyons-css/tachyons  
  - Bootstrap - www.getbootstrap.com - CSS Toolkit Evan likes  
  - Github Pages - pages.github.com
  5) Visualization 
