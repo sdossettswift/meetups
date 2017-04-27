@@ -92,4 +92,29 @@ Questions to ask:
  4) Who are your allies? 
  5) What name speaks to both your target audience & allies? 
 
+## In the future things will be kicked adn shook to work 
+
+## Designer's Open Source Tool Kit (Evan O'Neill)
+ 1) Iconography
+ - Fontawesome - www.fontawesome.io
+ - The Noun Project - www.thenounproject.com
+ - AIGA Symbols - www.aiga.org/symbols-signs
+ 2) Type (Typefaces, not fonts!)
+ - Grilli Type - grillitype.com (free trials)
+ - Google Fonts www.google.fonts.biz
+ 3) Text editor
+ - Atom - atom.io
+ 4) Web Framework 
+ - Tachyons - www.fontawesome.io
+ - Bootstrap - www.getbootstrap.com - CSS Toolkit Evan likes  
+ - Github Pages - pages.github.com
+ 5) Visualization 
+ - Mapbox mapbox.com
+ - Raw  http://rawgraphics.io - for charts, heatmaps, etc. drop a spreadsheet in, pick output 
+ - D3 - short learning curve from JS
+ 6) Hilarious Jokes
+ - John B. Wear Summer 2016 catalog shot in an orange jumpsuit 
+ - important b/c this is all depressing shit (human trafficking, homelessness, flooding, etc.)
+
+## PITCH
 
