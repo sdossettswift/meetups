@@ -19,20 +19,20 @@
 - average SPA ships 420kb js, spends 5s in startup.. Parse time - often overlooked
 ## HOW TO SPEED UP WIDGETS (w/ minimal effort)
 
-###Stack 
+### Stack 
 - babel
 - webpack
 - https://github.com/th0r/webpack-bundle-analyzer (visualization of the code you are shipping- shows you where to cut fat)
 - yarn (much!!) faster than npm  (example: 2.5 mins in npm, 20 seconds w/ yarn)
-###Example: widgets.js (2.1 mb)
+### Example: widgets.js (2.1 mb)
 
-###webpack -p (427kb)
+### webpack -p (427kb)
 - automatically minifis using uglifyJS
 - shims process.env.NODE_ENV = "production" for dead-code removal 
 * uglify js will ignore all the development/test stuff that isn't useful for production 
 https://webpack.js.org/
 - 
-###Compression-webpack-plugin (134kb)
+### Compression-webpack-plugin (134kb)
 - configurable, compressed bundles w/ Gzip
 - https://github.com/webpack-contrib/compression-webpack-plugin
 `` plugins: [
@@ -41,12 +41,12 @@ https://webpack.js.org/
 	})
 	]
 ``
-###Tree Shaking (109kB)
+### Tree Shaking (109kB)
 - babel-plugin-lodash
 - tree shaking bundles hte named imports vs. an entire CommonJS module
 - https://webpck.js.org/guides/tree-shaking 
 
-###Preact (71.2kB)
+### Preact (71.2kB)
 - preact-compat is a drop-in replacement for react 
 - use webpack's resolve.alias
 - current version 8
@@ -61,11 +61,11 @@ https://webpack.js.org/
 	}
 }``
 
-###Code Splitting (31kb for widgets.js)
+### Code Splitting (31kb for widgets.js)
 - automatically splits dynamic imports 
 - built in webpack 
 
-###Targeted Polyfills (6.54kB)
+### Targeted Polyfills (6.54kB)
 - bundle and ship code to majority of your users based on their browser stats
 - lazy-load additional polyfills for uncommon browser targets
 - this makes performance super quick for super users w/ most up to date tech 
@@ -73,3 +73,8 @@ https://webpack.js.org/
 - ship to chrome first... 
 - https://github.com/zloirock/core-js 
 
+
+chat.js (40.8kB)
+hello.js (7.82kB)
+polyfills.js(17kB)
+widgets.js(6.54kB)
