@@ -24,6 +24,7 @@
 - webpack
 - https://github.com/th0r/webpack-bundle-analyzer (visualization of the code you are shipping- shows you where to cut fat)
 - yarn (much!!) faster than npm  (example: 2.5 mins in npm, 20 seconds w/ yarn)
+###Example: widgets.js (2.1 mb)
 
 ###webpack -p (427kb)
 - automatically minifis using uglifyJS
@@ -60,4 +61,15 @@ https://webpack.js.org/
 	}
 }``
 
-###
+###Code Splitting (31kb for widgets.js)
+- automatically splits dynamic imports 
+- built in webpack 
+
+###Targeted Polyfills (6.54kB)
+- bundle and ship code to majority of your users based on their browser stats
+- lazy-load additional polyfills for uncommon browser targets
+- this makes performance super quick for super users w/ most up to date tech 
+- figure out what browsers have marketshare 
+- ship to chrome first... 
+- https://github.com/zloirock/core-js 
+
