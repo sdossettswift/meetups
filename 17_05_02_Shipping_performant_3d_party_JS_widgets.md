@@ -2,6 +2,7 @@
 ## SpaceCity.jS
 - May 2, 2017
 - Iron Yard
+https://github.com/ericclemmons/performant-3rd-party-widgets
 
  * Caroline Dikibo - People's Choice Award for NASA Hackathon - EmberAlert - alerts you to fires.
  * Next month: Chris will give talk re: Clojure && rum - May 25 
@@ -73,8 +74,34 @@ https://webpack.js.org/
 - ship to chrome first... 
 - https://github.com/zloirock/core-js 
 
+#### REDUCED TO 
+* chat.js (40.8kB)
+* hello.js (7.82kB)
+* polyfills.js(17kB)
+* widgets.js(6.54kB)
 
-chat.js (40.8kB)
-hello.js (7.82kB)
-polyfills.js(17kB)
-widgets.js(6.54kB)
+### styled-components 
+- CSS and JS solution 
+- 21kB
+- significant effort to convert to alternatives
+- 11kB savings w/ styled-jsx
+
+### color
+- popular color manipulation library 
+- 8kB
+- poylchrome (2kB) is nearly a drop-in replacement for color
+- 6kB in savings 
+
+### setState
+- state management libraries can add bloat
+- react's setState can solve for most isolated state management needs
+- 3kB in savings 
+- get into this (!!!) when really diving in react 
+
+#### so then you end up with:
+* chat.js 20k
+* hello.js 7kb
+* polyfills.js 17kB
+* widgets 6.54kB
+
+
