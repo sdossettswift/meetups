@@ -25,3 +25,8 @@
 4. Chrome Selector Gadget Plugin
 5. Text Editor
 
+
+### Getting Started
+1. Go to website (www.houstontx.gov/departments.html)
+2. Using Selector Gadget, click on the type of data you want. In this case, we want the names of all the people. So, by clicking on one of the names, the chosen name will be green. All other items matching the selector will be yellow. Go through and click on the yellow items that are unwanted, turning them red. Selector Gadget will sort through and figure out the proper/most succinct way to caputre the desired content. In this case, it is `.table150 a:nth-child(1)` 
+
