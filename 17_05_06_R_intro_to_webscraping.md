@@ -29,4 +29,28 @@
 ### Getting Started
 1. Go to website (www.houstontx.gov/departments.html)
 2. Using Selector Gadget, click on the type of data you want. In this case, we want the names of all the people. So, by clicking on one of the names, the chosen name will be green. All other items matching the selector will be yellow. Go through and click on the yellow items that are unwanted, turning them red. Selector Gadget will sort through and figure out the proper/most succinct way to caputre the desired content. In this case, it is `.table150 a:nth-child(1)` 
+3. In R-Studio, make a new r script (Shift+command+N) 
+4. Recreate manual steps (above) in R. 
 
+####`libary (rvest)`
+
+- to run code,`cmd + enter`
+- copy url (http://www.houstontx.gov/departments.html) 
+- save url as a variable: `depts_url <- 'http://www.houstontx.gov/departments.html'`
+- create a variable for the html `depts_html <-read_html(depts_url)
+`
+
+- `depts_html <- read_html(depts_url)`
+
+- `fileConn <- file("output.txt")'
+- ` writeLines (depts_emails, fileConn)`
+
+```library(rvest)
+
+depts_url <- 'http://www.houstontx.gov/departments.html'
+depts_html <- read_html(depts_url)
+
+
+depts_html %>%
+  html_nodes('.table150 a') %>%
+    html_attr('href')```
