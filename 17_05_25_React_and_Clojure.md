@@ -33,7 +33,27 @@
 - great video on cljs: ClojureScript for Skeptics - Derek Slager
 
 # intro to react.js
+- declarative DOM -- DOM as a function of data
+- library handles DOM transition
+- component-based
+- small, functional interface
+- vDOM
+- [insert diagram here]
+- tree of data - lisp syntax
+- under the hood, react has a very small functional interface
+- components are not megacomplex
+
 # why cl.js x react.js
+- flexible syntax (no JSX!!)
+- immutable data by default
+- components/functions compose naturally
+- no one is using vDOM setup w/out JSX but JSX is madness 
+- should component update w/ immutable data is a gut check
+- persistent data structure 
+- sharing structure - d &&  d' both point to b -- the check happens instantaneously 
+  
+
+
 # demo
 
 
