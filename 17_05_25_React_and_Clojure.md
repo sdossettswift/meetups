@@ -55,6 +55,12 @@
 
 
 # demo
+- parinfore means you never have to say sorry or write a damn bracket  
+- whitespace is significant
+- automatic table wizardry  -> writes html & react components ...  (!!!) 
+- just core library
+- 
+
 
 
 
